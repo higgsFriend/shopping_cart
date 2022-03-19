@@ -12,4 +12,6 @@ To set-up the folder here are the commands we used:
 
 ```npm install react-bootstrap```
 
+```npm install bootstrap```
+
 ```npm install axios```
